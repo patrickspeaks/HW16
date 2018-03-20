@@ -1,0 +1,10 @@
+C:\Users\ClevelandCodes\source\repos\GetFiles\GetFiles\bin\Debug\GetFiles.exe.config
+C:\Users\ClevelandCodes\source\repos\GetFiles\GetFiles\bin\Debug\GetFiles.exe
+C:\Users\ClevelandCodes\source\repos\GetFiles\GetFiles\bin\Debug\GetFiles.pdb
+C:\Users\ClevelandCodes\source\repos\GetFiles\GetFiles\obj\Debug\GetFiles.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\source\repos\GetFiles\GetFiles\obj\Debug\GetFiles.Form1.resources
+C:\Users\ClevelandCodes\source\repos\GetFiles\GetFiles\obj\Debug\GetFiles.Properties.Resources.resources
+C:\Users\ClevelandCodes\source\repos\GetFiles\GetFiles\obj\Debug\GetFiles.csproj.GenerateResource.Cache
+C:\Users\ClevelandCodes\source\repos\GetFiles\GetFiles\obj\Debug\GetFiles.csproj.CoreCompileInputs.cache
+C:\Users\ClevelandCodes\source\repos\GetFiles\GetFiles\obj\Debug\GetFiles.exe
+C:\Users\ClevelandCodes\source\repos\GetFiles\GetFiles\obj\Debug\GetFiles.pdb
